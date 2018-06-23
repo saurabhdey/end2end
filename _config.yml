@@ -18,11 +18,11 @@ sass:
 title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
+url: "https://github.com/saurabhdey"
 baseurl: "/end2end"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
+repo: http://github.com/saurabhdey/end2end
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
@@ -32,12 +32,12 @@ author:
   job: Frontend Engineer
   bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: saurabhdey.post@gmail.com
+  #url: https://github.com/saurabhdey
+  github: https://github.com/saurabhdey
+  #twitter: https://twitter.com/umdevux
+  #facebook: https://facebook.com/umdevux
+  linkedin: https://linkedin.com/in/saurabhdey
 
 # navbar pages
 navbar:
